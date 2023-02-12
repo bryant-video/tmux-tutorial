@@ -1,10 +1,10 @@
 # tmux-tutorial
 Tutorial Link: [Youtube](), [Bilibili]()
-### Installation:
+## Installation:
 <img src="install.png"></img>
 image source: [here](https://github.com/tmux/tmux/wiki/Installing)
 
-### Useful terminal commands
+## Useful terminal commands
 Feel free to set your own alias 
 | Cmd | Description |
 | ---- | -------- |
@@ -15,7 +15,7 @@ Feel free to set your own alias
 | tmux kill-session -t `[Session Name]` | Delete a specific Session  |
 
 
-### My Session Shortcut
+## My Session Shortcut
 Remember to use these shortcuts <strong>inside a tmux session</strong>, not normal terminal.
 My prefix key is `Ctrl-b` or `C-b`, you can map it other keys.
 All key remappings and options setting go into `~/.tmux.conf`, remember to <strong>source this config file</strong> every time you make changes.
@@ -40,7 +40,7 @@ All key remappings and options setting go into `~/.tmux.conf`, remember to <stro
 | `[`  | Enter copy mode  |
 | `Ctrl`+`c`  | Exit copy mode|
 
-### Plugins:
+## Plugins:
 To install a plugin, add `set -g @plugin [Plugin]` in `.tmux.conf`, don't forget to initialize `tpm` at the end.
 1. [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm): Plugin manager tpm
 2. [Vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator):  Fast navigation among panes and (Neo)Vim
