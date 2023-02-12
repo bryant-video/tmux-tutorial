@@ -16,8 +16,8 @@ Feel free to set your own alias
 
 
 ## My Session Shortcut
-Remember to use these shortcuts <strong>inside a tmux session</strong>, not normal terminal.
-My prefix key is `Ctrl-b` or `C-b`, you can map it other keys.
+Remember to use these shortcuts <strong>inside a tmux session</strong>, not normal terminal. <br/>
+My prefix key is `Ctrl-b` or `C-b`, you can map it other keys.<br/> 
 All key remappings and options setting go into `~/.tmux.conf`, remember to <strong>source this config file</strong> every time you make changes.
 | Shortcut | Description |
 | ---- | -------- |
