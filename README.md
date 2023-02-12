@@ -32,7 +32,7 @@ All key remappings and options setting go into `~/.tmux.conf`, remember to <stro
 | `prefix` + `n` | Next window |
 | `prefix` + `p` | Previous window |
 | `prefix` + `w` | List all Sessions and windows |
-| `prefix` + `|` | Split windows left and right |
+| `prefix` + `\|` | Split windows left and right |
 | `prefix` + `-` | Split windows up and down  |
 | `Ctrl` + `h/j/k/l` | Move to the left/down/up/right pane, <strong>enabled by vim-tmux-navigator</strong>   |
 | `prefix` + `h/j/k/l` | Resize pane, direction keys can be repeated  |
