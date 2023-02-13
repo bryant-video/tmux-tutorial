@@ -28,7 +28,7 @@ All key remappings and options setting go into `~/.tmux.conf`, remember to <stro
 | `prefix` + `d` | Detach current active session |
 | `prefix` + `,` | Rename current active window  |
 | `prefix` + `c` | Create new window |
-| `prefix` + `&` | Kill current new window |
+| `prefix` + `&` | Kill current window |
 | `prefix` + `n` | Next window |
 | `prefix` + `p` | Previous window |
 | `prefix` + `w` | List all Sessions and windows |
