@@ -1,5 +1,5 @@
 # tmux-tutorial
-Tutorial Link: [Youtube](), [Bilibili]()
+Tutorial Link: [Youtube](https://www.youtube.com/watch?v=8CFmwNtW8M4), [Bilibili](https://www.bilibili.com/video/BV1Mj411N7xS/)
 ## Installation:
 <img src="install.png"></img>
 image source: [here](https://github.com/tmux/tmux/wiki/Installing)
