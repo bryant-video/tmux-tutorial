@@ -41,7 +41,7 @@ All key remappings and options setting go into `~/.tmux.conf`, remember to <stro
 | `Ctrl`+`c`  | Exit copy mode|
 
 ## Plugins:
-To install a plugin, add `set -g @plugin [Plugin]` in `.tmux.conf`, don't forget to initialize `tpm` at the end.
+To install a plugin, add `set -g @plugin [Plugin]` in `.tmux.conf`, don't forget to initialize `tpm` at the end. Save and quit config file then `prefix+I` to install the plugins.
 1. [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm): Plugin manager tpm
 2. [Vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator):  Fast navigation among panes and (Neo)Vim
 3. [Tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect): Restore tmux env after system restart
